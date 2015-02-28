@@ -1,5 +1,5 @@
 """
-Finding x,y for minimation function F(x,y) = 3x^2 + 2y^2 - 4x + y/2 using Genetic Algorithm
+Finding x,y for function minimization F(x,y) = 3x^2 + 2y^2 - 4x + y/2 using Genetic Algorithm
 wrismawan, E101
 """
 from random import randint
